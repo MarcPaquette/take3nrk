@@ -21,7 +21,7 @@
 title: Take 3 - Learning OS development with Rust 
 email: mpaquette@vmware.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog to outline my experiences during my 3 month rotation onto the NRK Team. My goals are to learn Rust, operating system development and research group work
+  A blog to outline my experiences during my 3 month rotation onto the NRK Team. My goals are to learn about the following: Rust, operating system development and research group work
 baseurl: take3nrk # the subpath of your site, e.g. /blog
 url: https://marcpaquette.github.io # the base hostname & protocol for your site, e.g. http://example.com
 domain: marcpaquette.github.io
